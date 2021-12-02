@@ -1,10 +1,25 @@
 # Pygame 最小开发框架
 
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20211202110208057.png" alt="image-20211202110208057" style="zoom:67%;" />
+# 最小开发框架
 
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20211202110323234.png" alt="image-20211202110323234" style="zoom:67%;" />
+```python
+# 引入 pygame 和 sys
 
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20211202110400736.png" alt="image-20211202110400736" style="zoom:67%;" />
+# 初始化 init 及设置
+
+while True:
+	# 获取事件并逐类响应
+
+	# 刷新屏幕
+```
+
+# 极简开发框架
+```python
+# 引入及初始化
+
+while True:
+	# 事件及刷新
+```
 
 # 引入 pygame 和 sys
 
